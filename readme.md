@@ -7,6 +7,7 @@
 - **Vernacular Lang**: Dikěle
 - **English Language Name**: Kele
 - **Ethnologue Code**: <a href="http://www.ethnologue.com/language/khy">khy</a>
+- **Glottolog Code**: <a href="http://glottolog.org/resource/languoid/id/kele1255">kele1255</a>
 - **Abbreviation**: KHYJON
 - **Date**: 1879
 - **Publisher**: American Bible Society
@@ -20,5 +21,5 @@ A project to edit the OCR scan of the Gospel of John from archive.org for accura
 If you use this Bible on your website or app please include this text in either the footer, about page, or copyright page.
 
 ```html
-<p>This text transcribed by <a href="http://dbs.org">The Digital Bible Society</a></p>
+<p>This text transcribed by <a href="https://dbs.org">The Digital Bible Society</a></p>
 ```
